@@ -1,0 +1,20 @@
+[
+  {
+    "title": "E-COMMERCE SITE",
+    "imageSrc": "projects/e-commerce.JPG",
+    "description": "The e-commerce site, is an online platform where businesses and individuals can buy and sell goods or services over the internet.",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "weather-app",
+    "imageSrc": "projects/weather-app.JPG",
+    "description": "A weather application provides users with real-time weather information, forecasts, and related data. ",
+    "source": "https://github.com/tunenj/weather-app"
+  },
+  {
+    "title": "task-tracker",
+    "imageSrc": "projects/task-tracker.JPG",
+    "description": "A task tracker, is a tool designed to help individuals and teams organize, track, and manage tasks and projects efficiently.",
+    "source": "https://github.com/tunenj/task-tracker"
+  }
+]
